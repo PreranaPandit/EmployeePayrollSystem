@@ -1,2 +1,2 @@
-# EmployeePayrollSystem
+# EmployeePayrollSystem - EPS
 Computing Project
