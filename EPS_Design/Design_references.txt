@@ -1,0 +1,20 @@
+https://github.com/muhammadhoti/Employee-Management-System-Using-React
+
+
+
+
+
+1. http://infolab.stanford.edu/~burback/watersluice/node11.html
+
+2. https://searchmicroservices.techtarget.com/definition/class-diagram
+
+3. https://www.modernanalyst.com/Careers/InterviewQuestions/tabid/128/ID/1433/What-is-a-Context-Diagram-and-what-are-the-benefits-of-creating-one.aspx
+
+4. https://www.oreilly.com/library/view/systems-analysis-and/9781118037423/11_chapter006.html
+
+5. https://www.visual-paradigm.com/guide/uml-unified-modeling-language/what-is-activity-diagram/
+
+6. https://www.visual-paradigm.com/guide/uml-unified-modeling-language/what-is-sequence-diagram/
+
+7. https://www.visual-paradigm.com/guide/data-modeling/what-is-entity-relationship-diagram/
+
